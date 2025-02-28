@@ -1,0 +1,1401 @@
+Text Instruction,Label
+"Find, then assess the inflammation for classification.",0
+Map and determine the correct boundaries of the hypertrophy.,1
+"Help us find out the neutrophilic infiltrate, it's important.",0
+"Your task is to map the neutrophilic infiltrate, can you do it?",1
+Spot the fibrosis.,1
+"Determine and indicate the tubules, making it clearer.",0
+"Help us distinguish and highlight the apoptosis, it's important.",2
+Distinguish the inflammation and label it properly.,0
+Locate and check the signet ring cells and label it properly.,2
+Analyze the image and sketch where the mitotic figures is.,1
+Categorize the desmoplasianuclear atypia.,0
+Your objective is to find out if there are {obj}s or not. locate them if there is any present. the necrosis efficiently.,2
+"Is there any {obj} in the region? If yes, mark out. where the carcinoma in situ is located in this image.",2
+Analyze where the granulation tissue is located in this image.,0
+Judge and determine the correct boundaries of the metastasis.,0
+"Your task is to highlight the tumor, can you do it?",1
+Distinguish the exact location of the invasive carcinoma in the given scene.,0
+Encircle and categorize the cell detection.,2
+Draw boundary the pleomorphism.,1
+We need to separate the granulation tissue for further analysis.,1
+Encircle the area containing the tumor budding with precision.,1
+Can you assess the ulcer in this picture?,0
+"This image contains a pleomorphism, mark and determine it.",2
+Encircle the blood cells and label it properly.,1
+We need to verify the er positive for further analysis.,0
+Mark and determine the exact location of the hemorrhage in the given scene.,2
+"Help us categorize the pleomorphism, it's important.",0
+"Help us find out if there are {obj}s or not. locate them if there is any present. the lymphocytic infiltrate, it's important.",2
+"Your task is to is there any {obj} in the region? if yes, mark out. the signet ring cells, can you do it?",2
+"This image contains a er negative, locate and check it.",2
+We need to detect and classify the hemorrhage for further analysis.,2
+Highlight and confirm the neutrophilic infiltrate and label it properly.,2
+"Please find out the tumor necrosis, we need the data.",0
+"Help us assess the clear cells, it's important.",0
+Your objective is to observe the fibrinoid necrosis efficiently.,0
+"Is there any calcification in the region? If yes, mark out.",1
+Can you identify and analyze the gangrenous necrosis in this picture?,2
+Can you diagnose the signet ring cells in this picture?,0
+Analyze the image and map where the inflammation is.,1
+Identify and analyze the calcification.,2
+"Please highlight the calcification, we need the data.",1
+Can you find out the nontumor in this picture?,0
+Analyze the image and categorize where the atypia is.,0
+"Is there any neutrophilic infiltrate in the region? If yes, mark out.",2
+"Your task is to encircle the metastasis, can you do it?",1
+Find out if there are cytoplasmic atypias or not. Locate them if there is any present.,2
+Can you find out if there are {obj}s or not. locate them if there is any present. the mitotic figures in this picture?,2
+"Is there any {obj} in the region? If yes, mark out. and highlight the gangrenous necrosis to improve detection.",2
+Your objective is to categorize the pleomorphism efficiently.,0
+Distinguish and determine the correct boundaries of the gangrenous necrosis.,0
+Your objective is to separate the cell detection efficiently.,1
+"This image contains a mitotic figures, highlight it.",1
+"Is there any {obj} in the region? If yes, mark out. the exact location of the mitotic figures in the given scene.",2
+"Find, then find out the nontumor for classification.",0
+Separate the exact location of the tubules in the given scene.,1
+"Your task is to encircle and categorize the hyalinization, can you do it?",2
+"Is there any hyperplasia in the region? If yes, mark out.",1
+Can you find out the er negative in this picture?,0
+"Your task is to assess the cell detection, can you do it?",0
+"Outline and verify and indicate the hemorrhage, making it clearer.",2
+"Your task is to sketch the tissue, can you do it?",1
+"Scan the image and is there any {obj} in the region? if yes, mark out. the signet ring cells accurately.",2
+Your objective is to encircle and categorize the inflammation efficiently.,2
+Locate and check and determine the correct boundaries of the blood cells.,2
+"This image contains a edema, circle it.",1
+"Your task is to circle the gangrenous necrosis, can you do it?",1
+Assess the area containing the lymphocytic infiltrate with precision.,0
+"Your task is to verify the tumor budding, can you do it?",0
+Draw boundary and highlight the mitotic figures to improve detection.,1
+Your objective is to distinguish the cell detection efficiently.,0
+Confirm the cell detection.,0
+"Please find out the atypia, we need the data.",0
+Spot and recognize the fibrinoid necrosis.,2
+Identify and analyze where the tumor budding is located in this image.,2
+"Spot and recognize and indicate the edema, making it clearer.",2
+Observe the area containing the desmoplasianuclear atypia with precision.,0
+Determine the mitosis.,0
+Outline the granulation tissue.,1
+Encircle and categorize where the atrophy is located in this image.,2
+"Help us recognize the tumor, it's important.",0
+"This image contains a mucin, trace and evaluate it.",2
+Detect the atrophy and label it properly.,1
+We need to distinguish the mitosis for further analysis.,0
+"This image contains a cytoplasmic atypia, delimit it.",1
+"Find, then judge the tubules for classification.",0
+"Please assess the fibrinoid necrosis, we need the data.",0
+"Help us observe the mitosis, it's important.",0
+Encircle the hemorrhage and label it properly.,1
+"Determine and indicate the cell detection, making it clearer.",0
+Find out if there are carcinoma in situs or not. Locate them if there is any present.,0
+Find out if there are lymphocytic infiltrates or not. Locate them if there is any present.,2
+Diagnose the carcinoma in situ and label it properly.,0
+Can you delimit the cytoplasmic atypia in this picture?,1
+"Categorize and indicate the hyalinization, making it clearer.",0
+"Is there any {obj} in the region? If yes, mark out. and highlight the mitosis to improve detection.",2
+Detect and highlight the tumor to improve detection.,1
+"Help us is there any {obj} in the region? if yes, mark out. the desmoplasianuclear atypia, it's important.",2
+"Find out and indicate the carcinoma in situ, making it clearer.",0
+Your objective is to identify and analyze the pleomorphism efficiently.,2
+"Observe and identify the gangrenous necrosis, noting key features.",1
+"Help us detect and classify the mitotic figures, it's important.",2
+"Please assess the blood cells, we need the data.",0
+Highlight and determine the correct boundaries of the metaplasia.,1
+"Observe and analyze the er negative, noting key features.",0
+Can you separate the desmoplasianuclear atypia in this picture?,1
+Find out if there are {obj}s or not. Locate them if there is any present. the exact location of the ulcer in the given scene.,2
+Can you detect the metastasis in this picture?,1
+Spot and recognize and determine the correct boundaries of the hypertrophy.,2
+Verify the area containing the tubules with precision.,0
+"Please trace and evaluate the er negative, we need the data.",2
+"Help us distinguish the gangrenous necrosis, it's important.",0
+"This image contains a nontumor, mark and determine it.",2
+We need to evaluate the metastasis for further analysis.,0
+Scan the image and encircle and categorize the neutrophilic infiltrate accurately.,2
+Map the exact location of the metastasis in the given scene.,1
+Scan the image and observe the carcinoma in situ accurately.,0
+Scan the image and distinguish the sheets accurately.,0
+"Your task is to assess the tumor budding, can you do it?",0
+Mark the mitotic figures and label it properly.,1
+"Can you is there any {obj} in the region? if yes, mark out. the lymphocytic infiltrate in this picture?",2
+Spot and recognize and highlight the ulcer to improve detection.,2
+Spot and recognize the carcinoma in situ.,2
+Find out if there are {obj}s or not. Locate them if there is any present. where the mucin is located in this image.,2
+Categorize the tumor and label it properly.,0
+Find out if there are tumor buddings or not. Locate them if there is any present.,2
+Find out if there are hyperplasias or not. Locate them if there is any present.,2
+"Is there any metaplasia in the region? If yes, mark out.",1
+Detect the area containing the tissue with precision.,1
+Identify and analyze where the gangrenous necrosis is located in this image.,2
+We need to encircle and categorize the tubules for further analysis.,2
+"This image contains a inflammation, determine it.",0
+"Please outline the lymphocytic infiltrate, we need the data.",1
+Evaluate the area containing the cell detection with precision.,0
+Trace and evaluate and determine the correct boundaries of the hypertrophy.,2
+Can you delimit the atrophy in this picture?,1
+We need to confirm the sheets for further analysis.,0
+Analyze the image and mark and determine where the mucin is.,2
+Can you determine the tumor in this picture?,0
+Locate the area containing the hyperplasia with precision.,1
+Detect and highlight the fibrosis to improve detection.,1
+We need to trace and evaluate the er positive for further analysis.,2
+Outline the exact location of the nontumor in the given scene.,1
+Scan the image and sketch the mitosis accurately.,1
+Recognize the exact location of the tumor necrosis in the given scene.,0
+Identify and analyze and determine the correct boundaries of the hyperplasia.,2
+We need to analyze the blood cells for further analysis.,0
+Trace the tissue and label it properly.,1
+Can you encircle and categorize the ulcer in this picture?,2
+Verify and determine the correct boundaries of the hypertrophy.,0
+Map and highlight the blood cells to improve detection.,1
+Can you draw boundary the apoptosis in this picture?,1
+Recognize the signet ring cells and label it properly.,0
+Highlight the invasive carcinoma and label it properly.,1
+"Your task is to encircle the cell detection, can you do it?",1
+Your objective is to encircle and categorize the hyperplasia efficiently.,2
+Analyze the image and distinguish and highlight where the neutrophilic infiltrate is.,2
+Encircle and categorize the exact location of the necrosis in the given scene.,2
+Scan the image and detect and classify the calcification accurately.,2
+"Help us trace the dysplasia, it's important.",1
+"Find, then spot and recognize the carcinoma in situ for classification.",2
+"Trace and evaluate and indicate the er negative, making it clearer.",2
+Recognize and determine the correct boundaries of the mitotic figures.,0
+"This image contains a granulation tissue, find out if there are {obj}s or not. locate them if there is any present. it.",2
+Inspect the area containing the tubules with precision.,0
+Your objective is to identify and analyze the ulcer efficiently.,2
+Encircle the gangrenous necrosis and label it properly.,1
+Can you identify and analyze the cell detection in this picture?,2
+Assess and determine the correct boundaries of the invasive carcinoma.,0
+Locate and check the exact location of the hypertrophy in the given scene.,2
+"Find, then locate and check the mitotic figures for classification.",2
+"Help us distinguish and highlight the metaplasia, it's important.",2
+Your objective is to check the mucin efficiently.,0
+"This image contains a fibrosis, locate and check it.",2
+Judge the exact location of the gangrenous necrosis in the given scene.,0
+Map where the tumor budding is located in this image.,1
+"Help us locate the hyperplasia, it's important.",1
+Mark the exact location of the tumor necrosis in the given scene.,1
+Identify and analyze and highlight the blood cells to improve detection.,2
+Categorize the area containing the cell detection with precision.,0
+"Find, then outline and verify the hemorrhage for classification.",2
+"Spot and recognize and indicate the necrosis, making it clearer.",2
+Can you assess the mucin in this picture?,0
+Delimit the pleomorphism and label it properly.,1
+Observe the area containing the tumor with precision.,0
+"Help us outline the tumor, it's important.",1
+Can you trace and evaluate the calcification in this picture?,2
+"This image contains a nontumor, distinguish and highlight it.",2
+Detect the exact location of the mucin in the given scene.,1
+"Please identify and analyze the edema, we need the data.",2
+"Please verify the sheets, we need the data.",0
+"This image contains a mucin, draw boundary it.",1
+"Your task is to inspect the signet ring cells, can you do it?",0
+Judge the cytoplasmic atypia and label it properly.,0
+"Your task is to categorize the cell detection, can you do it?",0
+"Your task is to recognize the metastasis, can you do it?",0
+Scan the image and trace and evaluate the tissue accurately.,2
+Recognize the granulation tissue.,0
+Detect and classify the exact location of the clear cells in the given scene.,2
+Can you identify the mucin in this picture?,1
+Analyze the image and diagnose where the granulation tissue is.,0
+Find out if there are mitosiss or not. Locate them if there is any present.,1
+"Observe and identify and analyze the carcinoma in situ, noting key features.",2
+Encircle the exact location of the metastasis in the given scene.,1
+Analyze the image and verify where the ulcer is.,0
+Find out if there are {obj}s or not. Locate them if there is any present. the sheets.,2
+Categorize the exact location of the gangrenous necrosis in the given scene.,0
+Analyze the image and distinguish and highlight where the pleomorphism is.,2
+Verify the hyperplasia and label it properly.,0
+"Find, then observe the tissue for classification.",0
+"Determine and indicate the mitotic figures, making it clearer.",0
+"Your task is to locate and check the hemorrhage, can you do it?",2
+We need to mark and determine the tumor necrosis for further analysis.,2
+Trace the exact location of the hemorrhage in the given scene.,1
+"Recognize and indicate the ulcer, making it clearer.",0
+We need to recognize the er positive for further analysis.,0
+"Detect and indicate the edema, making it clearer.",1
+Distinguish and determine the correct boundaries of the cytoplasmic atypia.,0
+"Please encircle the ulcer, we need the data.",1
+Judge where the mucin is located in this image.,0
+"Help us categorize the er negative, it's important.",0
+Distinguish the exact location of the fibrinoid necrosis in the given scene.,0
+"Help us locate and check the mitotic figures, it's important.",2
+"Your task is to check the hypertrophy, can you do it?",0
+Can you spot the inflammation in this picture?,1
+"Analyze and indicate the er negative, making it clearer.",0
+Can you find out if there are {obj}s or not. locate them if there is any present. the pleomorphism in this picture?,2
+Inspect the nontumor.,0
+Separate the exact location of the dysplasia in the given scene.,1
+Outline and verify the exact location of the atypia in the given scene.,2
+Your objective is to verify the atrophy efficiently.,0
+Judge the area containing the tubules with precision.,0
+Separate the exact location of the sheets in the given scene.,1
+"Help us recognize the mucin, it's important.",0
+"Please spot and recognize the blood cells, we need the data.",2
+Your objective is to outline and verify the neutrophilic infiltrate efficiently.,2
+"Find, then confirm the cell detection for classification.",0
+"Please assess the edema, we need the data.",0
+"Detect and classify and indicate the blood cells, making it clearer.",2
+"Find, then recognize the atypia for classification.",0
+"Your task is to diagnose the tumor budding, can you do it?",0
+"Help us highlight the er positive, it's important.",1
+Your objective is to distinguish the necrosis efficiently.,0
+"This image contains a invasive carcinoma, circle it.",1
+"Find out if there are {obj}s or not. Locate them if there is any present. and indicate the tissue, making it clearer.",2
+Assess where the tumor is located in this image.,0
+Sketch and highlight the tumor necrosis to improve detection.,1
+"This image contains a mucin, detect and classify it.",2
+Circle and highlight the atrophy to improve detection.,1
+"This image contains a cell detection, draw boundary it.",1
+"Find, then circle the calcification for classification.",1
+Trace the area containing the inflammation with precision.,1
+Identify and determine the correct boundaries of the desmoplasianuclear atypia.,1
+Spot and recognize and highlight the tubules to improve detection.,2
+"Find, then highlight the mitotic figures for classification.",1
+"This image contains a invasive carcinoma, spot it.",1
+"Your task is to identify the inflammation, can you do it?",1
+We need to separate the metaplasia for further analysis.,1
+Analyze the image and distinguish where the cytoplasmic atypia is.,0
+"Your task is to determine the tumor, can you do it?",0
+Find out the area containing the necrosis with precision.,0
+"This image contains a invasive carcinoma, trace and evaluate it.",2
+"This image contains a tissue, spot and recognize it.",2
+Your objective is to recognize the atypia efficiently.,0
+Analyze the image and detect and classify where the gangrenous necrosis is.,2
+"Please trace the metastasis, we need the data.",1
+Mark and determine and highlight the hyperplasia to improve detection.,2
+"Please categorize the mitotic figures, we need the data.",0
+"Is there any necrosis in the region? If yes, mark out.",1
+"Observe and encircle and categorize the ulcer, noting key features.",2
+Can you observe the tumor necrosis in this picture?,0
+"Is there any edema in the region? If yes, mark out.",0
+Scan the image and locate and check the atrophy accurately.,2
+Assess and determine the correct boundaries of the signet ring cells.,0
+Mark the area containing the tissue with precision.,1
+Analyze the image and encircle and categorize where the dysplasia is.,2
+Analyze the image and spot where the mitotic figures is.,1
+"This image contains a er negative, inspect it.",0
+"Observe and categorize the tissue, noting key features.",0
+Your objective is to highlight and confirm the pleomorphism efficiently.,2
+"Is there any {obj} in the region? If yes, mark out. and highlight the fibrosis to improve detection.",2
+"Find, then separate the sheets for classification.",1
+Analyze the image and separate where the atypia is.,1
+Analyze the image and delimit where the er positive is.,1
+"Observe and spot the cytoplasmic atypia, noting key features.",1
+Diagnose and highlight the signet ring cells to improve detection.,0
+We need to sketch the desmoplasianuclear atypia for further analysis.,1
+"Your task is to circle the tubules, can you do it?",1
+"Help us identify the ulcer, it's important.",1
+"Your task is to distinguish the hemorrhage, can you do it?",0
+"Highlight and indicate the fibrosis, making it clearer.",1
+Separate the tumor budding and label it properly.,1
+Analyze the image and outline where the calcification is.,1
+Inspect and determine the correct boundaries of the hyperplasia.,0
+Can you map the edema in this picture?,1
+Trace and evaluate the area containing the necrosis with precision.,2
+"Find, then find out the cell detection for classification.",0
+Analyze and highlight the apoptosis to improve detection.,0
+"Your task is to highlight the mucin, can you do it?",1
+"Find, then outline and verify the desmoplasianuclear atypia for classification.",2
+Encircle the area containing the cytoplasmic atypia with precision.,1
+Diagnose and determine the correct boundaries of the blood cells.,0
+Outline and determine the correct boundaries of the granulation tissue.,1
+"Observe and highlight and confirm the neutrophilic infiltrate, noting key features.",2
+Can you circle the mucin in this picture?,1
+Analyze the image and delimit where the hyperplasia is.,1
+Your objective is to detect the signet ring cells efficiently.,1
+Draw boundary and highlight the nontumor to improve detection.,1
+Circle the lymphocytic infiltrate and label it properly.,1
+Find out if there are cell detections or not. Locate them if there is any present.,1
+"Please locate the mitosis, we need the data.",1
+"Observe and locate the atypia, noting key features.",1
+"Find, then detect and classify the mitotic figures for classification.",2
+"Observe and draw boundary the tubules, noting key features.",1
+Find out the desmoplasianuclear atypia.,0
+Scan the image and determine the atypia accurately.,0
+Scan the image and encircle the calcification accurately.,1
+We need to draw boundary the apoptosis for further analysis.,1
+Scan the image and find out if there are {obj}s or not. locate them if there is any present. the fibrinoid necrosis accurately.,2
+"This image contains a calcification, identify it.",1
+"Help us trace the clear cells, it's important.",1
+"Sketch and indicate the metaplasia, making it clearer.",1
+"Help us check the granulation tissue, it's important.",0
+"Observe and diagnose the atypia, noting key features.",0
+Analyze the image and highlight and confirm where the dysplasia is.,2
+"Find, then distinguish and highlight the er negative for classification.",2
+Find out if there are {obj}s or not. Locate them if there is any present. the fibrinoid necrosis and label it properly.,2
+"Sketch and indicate the apoptosis, making it clearer.",1
+"Help us distinguish the er negative, it's important.",0
+Scan the image and draw boundary the invasive carcinoma accurately.,1
+Find out if there are pleomorphisms or not. Locate them if there is any present.,2
+Detect and classify the nontumor and label it properly.,2
+Observe and determine the correct boundaries of the tubules.,0
+Mark and determine where the fibrosis is located in this image.,2
+Detect the exact location of the edema in the given scene.,1
+"Observe and diagnose the er negative, noting key features.",0
+Your objective is to outline the inflammation efficiently.,1
+Outline and verify where the fibrosis is located in this image.,2
+Highlight the tumor necrosis.,1
+We need to delimit the hyperplasia for further analysis.,1
+Mark where the dysplasia is located in this image.,1
+"Find, then find out the er positive for classification.",0
+"Highlight and confirm and indicate the granulation tissue, making it clearer.",2
+We need to highlight and confirm the metaplasia for further analysis.,2
+"Determine and indicate the ulcer, making it clearer.",0
+Recognize the exact location of the hemorrhage in the given scene.,0
+We need to find out if there are {obj}s or not. locate them if there is any present. the granulation tissue for further analysis.,2
+"Is there any hyalinization in the region? If yes, mark out.",1
+Can you determine the tumor budding in this picture?,0
+Observe the fibrosis and label it properly.,0
+Your objective is to evaluate the nontumor efficiently.,0
+We need to inspect the hyperplasia for further analysis.,0
+"This image contains a carcinoma in situ, judge it.",0
+"This image contains a apoptosis, encircle and categorize it.",2
+"Observe and encircle and categorize the calcification, noting key features.",2
+Identify and analyze and determine the correct boundaries of the apoptosis.,2
+Encircle and categorize the tumor necrosis.,2
+"Analyze the image and is there any {obj} in the region? if yes, mark out. where the ulcer is.",2
+Analyze the image and outline and verify where the metastasis is.,2
+Scan the image and mark and determine the dysplasia accurately.,2
+"Mark and determine and indicate the atrophy, making it clearer.",2
+Scan the image and encircle and categorize the metaplasia accurately.,2
+"This image contains a mitosis, evaluate it.",0
+Map and determine the correct boundaries of the tumor budding.,1
+"Help us distinguish and highlight the cell detection, it's important.",2
+"Please encircle the mitosis, we need the data.",1
+"Please assess the tumor, we need the data.",0
+Your objective is to sketch the gangrenous necrosis efficiently.,1
+Diagnose the area containing the inflammation with precision.,0
+"Your task is to judge the er negative, can you do it?",0
+Your objective is to detect and classify the mitotic figures efficiently.,2
+Evaluate where the er positive is located in this image.,0
+"Find, then delimit the granulation tissue for classification.",1
+"Observe and identify and analyze the atrophy, noting key features.",2
+Distinguish and highlight the area containing the atypia with precision.,2
+"This image contains a lymphocytic infiltrate, distinguish and highlight it.",2
+"Please evaluate the inflammation, we need the data.",0
+"This image contains a cell detection, is there any {obj} in the region? if yes, mark out. it.",2
+"This image contains a calcification, distinguish it.",0
+"This image contains a mitotic figures, is there any {obj} in the region? if yes, mark out. it.",2
+"Delimit and indicate the er positive, making it clearer.",1
+Trace and evaluate the area containing the granulation tissue with precision.,2
+Highlight and highlight the necrosis to improve detection.,1
+Find out if there are tissues or not. Locate them if there is any present.,1
+Scan the image and mark and determine the tumor accurately.,2
+"This image contains a granulation tissue, delimit it.",1
+Scan the image and assess the clear cells accurately.,0
+Outline the hyalinization.,1
+Your objective is to trace the sheets efficiently.,1
+Analyze the image and locate and check where the inflammation is.,2
+"Help us evaluate the tumor necrosis, it's important.",0
+"Distinguish and highlight and indicate the metastasis, making it clearer.",2
+"Find, then evaluate the metaplasia for classification.",0
+"Detect and classify and indicate the tumor budding, making it clearer.",2
+Can you identify and analyze the hemorrhage in this picture?,2
+Locate and check the mucin and label it properly.,2
+Find out where the edema is located in this image.,0
+"Observe and distinguish the dysplasia, noting key features.",0
+Judge the necrosis.,0
+Can you locate and check the tumor budding in this picture?,2
+"Observe and find out the pleomorphism, noting key features.",0
+"Help us delimit the atrophy, it's important.",1
+Can you recognize the hyalinization in this picture?,0
+"Is there any atypia in the region? If yes, mark out.",0
+Distinguish and highlight and determine the correct boundaries of the dysplasia.,2
+Recognize and determine the correct boundaries of the atypia.,0
+"Please inspect the carcinoma in situ, we need the data.",0
+Scan the image and trace the tissue accurately.,1
+Draw boundary where the cytoplasmic atypia is located in this image.,1
+Your objective is to separate the tubules efficiently.,1
+"This image contains a signet ring cells, inspect it.",0
+Scan the image and outline and verify the carcinoma in situ accurately.,2
+Your objective is to sketch the nontumor efficiently.,1
+"Find, then find out if there are {obj}s or not. locate them if there is any present. the hypertrophy for classification.",2
+Observe the blood cells.,0
+"Confirm and indicate the blood cells, making it clearer.",0
+"This image contains a cell detection, spot and recognize it.",2
+Spot and determine the correct boundaries of the tissue.,1
+Detect the area containing the neutrophilic infiltrate with precision.,1
+"Observe and identify and analyze the granulation tissue, noting key features.",2
+Delimit the area containing the cell detection with precision.,1
+"Observe and trace and evaluate the cell detection, noting key features.",2
+Analyze the image and judge where the mucin is.,0
+Highlight where the inflammation is located in this image.,1
+Sketch the area containing the apoptosis with precision.,1
+Draw boundary and determine the correct boundaries of the mucin.,1
+"This image contains a metastasis, distinguish it.",0
+Mark and determine and highlight the carcinoma in situ to improve detection.,2
+"Please spot the cell detection, we need the data.",1
+"Please evaluate the invasive carcinoma, we need the data.",0
+Spot the exact location of the tissue in the given scene.,1
+"Please encircle the tubules, we need the data.",1
+"Observe and trace the tissue, noting key features.",1
+Can you map the mitosis in this picture?,1
+Detect and classify where the hemorrhage is located in this image.,2
+Analyze the image and observe where the pleomorphism is.,0
+"Your task is to locate the lymphocytic infiltrate, can you do it?",1
+Find out if there are {obj}s or not. Locate them if there is any present. and determine the correct boundaries of the tubules.,2
+Encircle and categorize and highlight the metaplasia to improve detection.,2
+"Your task is to sketch the fibrinoid necrosis, can you do it?",1
+Can you highlight the clear cells in this picture?,1
+Your objective is to identify the hyalinization efficiently.,1
+"This image contains a gangrenous necrosis, mark it.",1
+Outline the calcification.,1
+Confirm the mucin.,0
+"Help us detect and classify the hemorrhage, it's important.",2
+Analyze the image and encircle and categorize where the desmoplasianuclear atypia is.,2
+Trace and evaluate where the mitotic figures is located in this image.,2
+"Encircle and categorize and indicate the calcification, making it clearer.",2
+Circle the exact location of the nontumor in the given scene.,1
+Detect and classify the area containing the blood cells with precision.,2
+"Observe and assess the pleomorphism, noting key features.",0
+Scan the image and verify the carcinoma in situ accurately.,0
+We need to analyze the signet ring cells for further analysis.,0
+Analyze the image and determine where the fibrosis is.,0
+"Observe and encircle and categorize the clear cells, noting key features.",2
+Spot and recognize the exact location of the apoptosis in the given scene.,2
+"This image contains a dysplasia, distinguish and highlight it.",2
+Encircle and categorize the invasive carcinoma and label it properly.,2
+Detect where the nontumor is located in this image.,1
+Scan the image and map the desmoplasianuclear atypia accurately.,1
+Mark the invasive carcinoma and label it properly.,1
+"Please find out if there are {obj}s or not. locate them if there is any present. the hypertrophy, we need the data.",2
+Find out if there are blood cellss or not. Locate them if there is any present.,0
+"Please mark the dysplasia, we need the data.",1
+"This image contains a edema, encircle it.",1
+Diagnose where the er negative is located in this image.,0
+Distinguish and highlight the area containing the cell detection with precision.,2
+Analyze the metastasis and label it properly.,0
+Recognize where the atrophy is located in this image.,0
+Circle the mucin and label it properly.,1
+Judge the area containing the lymphocytic infiltrate with precision.,0
+"Sketch and indicate the fibrinoid necrosis, making it clearer.",1
+Your objective is to mark and determine the calcification efficiently.,2
+Your objective is to highlight the clear cells efficiently.,1
+Categorize the area containing the blood cells with precision.,0
+"Your objective is to is there any {obj} in the region? if yes, mark out. the apoptosis efficiently.",2
+Evaluate the nontumor.,0
+We need to outline and verify the edema for further analysis.,2
+"Your task is to confirm the tubules, can you do it?",0
+"Help us locate the gangrenous necrosis, it's important.",1
+"Find, then check the mitosis for classification.",0
+"Your task is to detect the neutrophilic infiltrate, can you do it?",1
+Delimit the carcinoma in situ.,1
+Determine and determine the correct boundaries of the apoptosis.,0
+"Is there any carcinoma in situ in the region? If yes, mark out.",2
+"Please find out the tubules, we need the data.",0
+"This image contains a metaplasia, recognize it.",0
+Analyze the image and encircle and categorize where the pleomorphism is.,2
+"Find, then mark the hyalinization for classification.",1
+"Help us detect and classify the hyalinization, it's important.",2
+Determine the ulcer and label it properly.,0
+"Observe and find out the signet ring cells, noting key features.",0
+Analyze the carcinoma in situ.,0
+"Find, then judge the fibrosis for classification.",0
+"Please distinguish the hyperplasia, we need the data.",0
+"Your task is to spot the ulcer, can you do it?",1
+"Help us highlight the mitosis, it's important.",1
+"Help us spot and recognize the tumor budding, it's important.",2
+Highlight and highlight the calcification to improve detection.,1
+"Find, then analyze the tumor necrosis for classification.",0
+"Please delimit the neutrophilic infiltrate, we need the data.",1
+Confirm the area containing the signet ring cells with precision.,0
+Analyze the image and detect and classify where the dysplasia is.,2
+"Inspect and indicate the carcinoma in situ, making it clearer.",0
+"This image contains a mitotic figures, locate it.",1
+Map where the mitotic figures is located in this image.,1
+"Please inspect the cytoplasmic atypia, we need the data.",0
+Determine the exact location of the gangrenous necrosis in the given scene.,0
+Your objective is to distinguish and highlight the inflammation efficiently.,2
+"Is there any fibrinoid necrosis in the region? If yes, mark out.",0
+Distinguish and highlight the area containing the necrosis with precision.,2
+"Please draw boundary the granulation tissue, we need the data.",1
+"Detect and indicate the invasive carcinoma, making it clearer.",1
+"Observe and detect the desmoplasianuclear atypia, noting key features.",1
+"Your task is to trace and evaluate the lymphocytic infiltrate, can you do it?",2
+Highlight the exact location of the neutrophilic infiltrate in the given scene.,1
+"Mark and determine and indicate the sheets, making it clearer.",2
+Locate and check and highlight the mitotic figures to improve detection.,2
+Sketch the tumor and label it properly.,1
+"Observe and indicate the blood cells, making it clearer.",0
+Inspect the tumor budding.,0
+"Your task is to spot the tumor budding, can you do it?",1
+"Distinguish and highlight and indicate the calcification, making it clearer.",2
+Scan the image and trace the fibrosis accurately.,1
+Confirm and determine the correct boundaries of the dysplasia.,0
+Analyze the image and highlight and confirm where the tumor budding is.,2
+Can you find out the inflammation in this picture?,0
+"Encircle and indicate the tumor budding, making it clearer.",1
+We need to confirm the atypia for further analysis.,0
+Separate where the mitosis is located in this image.,1
+Your objective is to inspect the tumor necrosis efficiently.,0
+"Observe and locate and check the invasive carcinoma, noting key features.",2
+Your objective is to judge the er negative efficiently.,0
+"Find, then spot and recognize the hyperplasia for classification.",2
+We need to observe the cell detection for further analysis.,0
+"Help us detect and classify the necrosis, it's important.",2
+Highlight and confirm where the granulation tissue is located in this image.,2
+Find out if there are inflammations or not. Locate them if there is any present.,2
+Check and highlight the signet ring cells to improve detection.,0
+"Find, then highlight and confirm the fibrinoid necrosis for classification.",2
+"This image contains a inflammation, spot it.",1
+Circle the metaplasia and label it properly.,1
+Your objective is to confirm the pleomorphism efficiently.,0
+Distinguish the mitotic figures and label it properly.,0
+Find out if there are {obj}s or not. Locate them if there is any present. the tissue and label it properly.,2
+Analyze the image and inspect where the blood cells is.,0
+"This image contains a apoptosis, map it.",1
+Can you detect and classify the er negative in this picture?,2
+Draw boundary the ulcer.,1
+We need to trace the ulcer for further analysis.,1
+Can you detect the mitosis in this picture?,1
+"This image contains a hyalinization, confirm it.",0
+Check the exact location of the neutrophilic infiltrate in the given scene.,0
+"Find, then outline the atypia for classification.",1
+Observe the er negative.,0
+Assess where the clear cells is located in this image.,0
+Circle the exact location of the pleomorphism in the given scene.,1
+Evaluate and determine the correct boundaries of the granulation tissue.,0
+"Find, then detect the mucin for classification.",1
+We need to identify and analyze the nontumor for further analysis.,2
+Spot and recognize the pleomorphism and label it properly.,2
+"Please highlight and confirm the granulation tissue, we need the data.",2
+"This image contains a tumor, encircle and categorize it.",2
+Scan the image and circle the dysplasia accurately.,1
+Spot and recognize and highlight the cell detection to improve detection.,2
+Observe the ulcer.,0
+"Find, then categorize the tissue for classification.",0
+Recognize the exact location of the metaplasia in the given scene.,0
+"Please trace the hyalinization, we need the data.",1
+We need to observe the metaplasia for further analysis.,0
+Analyze the image and recognize where the hyperplasia is.,0
+Judge the atrophy.,0
+"Identify and analyze and indicate the metaplasia, making it clearer.",2
+"Observe and locate and check the atrophy, noting key features.",2
+"Detect and classify and indicate the tissue, making it clearer.",2
+Can you trace and evaluate the apoptosis in this picture?,2
+Evaluate and determine the correct boundaries of the carcinoma in situ.,0
+Can you mark the signet ring cells in this picture?,1
+Draw boundary and determine the correct boundaries of the clear cells.,1
+We need to detect the cytoplasmic atypia for further analysis.,1
+Outline the area containing the mitotic figures with precision.,1
+"This image contains a dysplasia, sketch it.",1
+Analyze the image and determine where the blood cells is.,0
+Categorize and determine the correct boundaries of the sheets.,0
+Your objective is to distinguish and highlight the apoptosis efficiently.,2
+"This image contains a clear cells, analyze it.",0
+"Your task is to outline and verify the granulation tissue, can you do it?",2
+Your objective is to highlight and confirm the hyperplasia efficiently.,2
+Find out if there are {obj}s or not. Locate them if there is any present. the tubules.,2
+We need to identify and analyze the granulation tissue for further analysis.,2
+Analyze the clear cells.,0
+"Observe and inspect the hyalinization, noting key features.",0
+"This image contains a tumor, diagnose it.",0
+Analyze the image and judge where the fibrosis is.,0
+"Help us is there any {obj} in the region? if yes, mark out. the gangrenous necrosis, it's important.",2
+Scan the image and confirm the calcification accurately.,0
+We need to circle the cytoplasmic atypia for further analysis.,1
+Distinguish and highlight the clear cells.,2
+"Is there any {obj} in the region? If yes, mark out. the exact location of the edema in the given scene.",2
+Identify and analyze and highlight the invasive carcinoma to improve detection.,2
+Can you inspect the dysplasia in this picture?,0
+"Please diagnose the hyperplasia, we need the data.",0
+Observe where the hyperplasia is located in this image.,0
+Map the exact location of the er positive in the given scene.,1
+Spot the area containing the edema with precision.,1
+Can you find out if there are {obj}s or not. locate them if there is any present. the hyalinization in this picture?,2
+We need to separate the hemorrhage for further analysis.,1
+Map where the hyalinization is located in this image.,1
+We need to encircle and categorize the tumor budding for further analysis.,2
+Your objective is to assess the tumor necrosis efficiently.,0
+"Find, then locate the invasive carcinoma for classification.",1
+"Draw boundary and indicate the cytoplasmic atypia, making it clearer.",1
+Find out if there are fibrinoid necrosiss or not. Locate them if there is any present.,1
+"Observe and distinguish the hemorrhage, noting key features.",0
+Mark and determine and determine the correct boundaries of the hyperplasia.,2
+Circle and determine the correct boundaries of the calcification.,1
+"This image contains a hemorrhage, distinguish and highlight it.",2
+Identify the cell detection and label it properly.,1
+"Please recognize the mitotic figures, we need the data.",0
+Can you check the apoptosis in this picture?,0
+"This image contains a metaplasia, confirm it.",0
+"This image contains a hypertrophy, separate it.",1
+"Observe and find out the lymphocytic infiltrate, noting key features.",0
+"Find, then highlight the pleomorphism for classification.",1
+"Is there any {obj} in the region? If yes, mark out. the cell detection and label it properly.",2
+Scan the image and observe the edema accurately.,0
+Trace and evaluate the neutrophilic infiltrate.,2
+Detect and classify the gangrenous necrosis.,2
+Detect and classify the fibrinoid necrosis.,2
+"Help us delimit the pleomorphism, it's important.",1
+Locate and check where the hemorrhage is located in this image.,2
+Can you separate the granulation tissue in this picture?,1
+Can you find out if there are {obj}s or not. locate them if there is any present. the dysplasia in this picture?,2
+"Circle and indicate the tissue, making it clearer.",1
+"Your task is to spot and recognize the carcinoma in situ, can you do it?",2
+Check and determine the correct boundaries of the er positive.,0
+"Observe and inspect the pleomorphism, noting key features.",0
+Mark and highlight the apoptosis to improve detection.,1
+Separate the tissue.,1
+"Observe and analyze the ulcer, noting key features.",0
+"Is there any apoptosis in the region? If yes, mark out.",2
+Locate and check the blood cells.,2
+Your objective is to analyze the ulcer efficiently.,0
+"Observe and spot the hyperplasia, noting key features.",1
+We need to observe the metastasis for further analysis.,0
+"Is there any blood cells in the region? If yes, mark out.",2
+Confirm where the mitosis is located in this image.,0
+Identify and highlight the apoptosis to improve detection.,1
+Observe and determine the correct boundaries of the er positive.,0
+Scan the image and highlight the atypia accurately.,1
+Identify and highlight the gangrenous necrosis to improve detection.,1
+"Find, then spot the atrophy for classification.",1
+Can you verify the mitosis in this picture?,0
+Your objective is to categorize the atrophy efficiently.,0
+Spot and recognize and determine the correct boundaries of the tumor.,2
+Analyze the image and outline where the dysplasia is.,1
+"Help us diagnose the atrophy, it's important.",0
+Analyze the exact location of the nontumor in the given scene.,0
+Detect the exact location of the dysplasia in the given scene.,1
+Confirm the granulation tissue and label it properly.,0
+Spot and determine the correct boundaries of the ulcer.,1
+Your objective is to verify the hypertrophy efficiently.,0
+"This image contains a inflammation, trace and evaluate it.",2
+"Help us determine the fibrinoid necrosis, it's important.",0
+Mark and determine where the hemorrhage is located in this image.,2
+Can you trace and evaluate the metaplasia in this picture?,2
+We need to distinguish the clear cells for further analysis.,0
+Locate the er positive and label it properly.,1
+Trace and evaluate the exact location of the fibrinoid necrosis in the given scene.,2
+"Map and indicate the dysplasia, making it clearer.",1
+"Encircle and categorize and indicate the inflammation, making it clearer.",2
+We need to identify the atrophy for further analysis.,1
+"This image contains a necrosis, detect it.",1
+Judge the hypertrophy.,0
+Your objective is to outline and verify the calcification efficiently.,2
+Encircle and categorize the area containing the tumor budding with precision.,2
+Scan the image and identify the inflammation accurately.,1
+"Categorize and indicate the invasive carcinoma, making it clearer.",0
+"Observe and spot the sheets, noting key features.",1
+"Find, then verify the er negative for classification.",0
+"This image contains a fibrinoid necrosis, spot it.",1
+"Please draw boundary the er positive, we need the data.",1
+"Please draw boundary the calcification, we need the data.",1
+Find out if there are edemas or not. Locate them if there is any present.,0
+"Please outline the tubules, we need the data.",1
+"Help us confirm the fibrosis, it's important.",0
+"Observe and distinguish the blood cells, noting key features.",0
+"Your task is to detect the atypia, can you do it?",1
+"Please outline and verify the hypertrophy, we need the data.",2
+"Delimit and indicate the clear cells, making it clearer.",1
+Find out if there are atrophys or not. Locate them if there is any present.,2
+"Is there any {obj} in the region? If yes, mark out. where the blood cells is located in this image.",2
+Detect and classify the area containing the neutrophilic infiltrate with precision.,2
+"Find, then circle the pleomorphism for classification.",1
+"Help us detect and classify the signet ring cells, it's important.",2
+Can you delimit the hyperplasia in this picture?,1
+Find out if there are {obj}s or not. Locate them if there is any present. the mitotic figures and label it properly.,2
+Find out if there are tumors or not. Locate them if there is any present.,0
+Your objective is to analyze the pleomorphism efficiently.,0
+Can you locate the metaplasia in this picture?,1
+"Observe and inspect the clear cells, noting key features.",0
+"Please find out if there are {obj}s or not. locate them if there is any present. the desmoplasianuclear atypia, we need the data.",2
+Analyze the image and distinguish and highlight where the ulcer is.,2
+"Identify and analyze and indicate the nontumor, making it clearer.",2
+Diagnose the exact location of the carcinoma in situ in the given scene.,0
+Scan the image and locate and check the tumor necrosis accurately.,2
+"This image contains a sheets, highlight it.",1
+Spot the inflammation and label it properly.,1
+"Encircle and indicate the pleomorphism, making it clearer.",1
+Categorize the tumor budding.,0
+Scan the image and check the cytoplasmic atypia accurately.,0
+Analyze the image and draw boundary where the tumor budding is.,1
+"Observe and locate the clear cells, noting key features.",1
+"Observe and encircle and categorize the er positive, noting key features.",2
+Scan the image and detect the atypia accurately.,1
+Outline the blood cells.,1
+"Your task is to find out if there are {obj}s or not. locate them if there is any present. the metastasis, can you do it?",2
+Trace and evaluate the tumor and label it properly.,2
+"Observe and find out the hyperplasia, noting key features.",0
+Detect and classify the tumor necrosis.,2
+Verify the tissue.,0
+Distinguish and highlight the apoptosis and label it properly.,2
+Can you evaluate the blood cells in this picture?,0
+Identify the invasive carcinoma and label it properly.,1
+Diagnose the area containing the tumor budding with precision.,0
+"Help us recognize the mitosis, it's important.",0
+"Observe and is there any {obj} in the region? if yes, mark out. the hyalinization, noting key features.",2
+Detect and classify the exact location of the calcification in the given scene.,2
+"This image contains a tumor necrosis, trace and evaluate it.",2
+Encircle and categorize and highlight the cytoplasmic atypia to improve detection.,2
+Analyze the image and mark where the hypertrophy is.,1
+Verify where the fibrinoid necrosis is located in this image.,0
+Analyze the image and draw boundary where the mitosis is.,1
+Scan the image and trace the hemorrhage accurately.,1
+We need to highlight the granulation tissue for further analysis.,1
+"Observe and encircle and categorize the signet ring cells, noting key features.",2
+Observe and highlight the apoptosis to improve detection.,0
+Your objective is to determine the cytoplasmic atypia efficiently.,0
+"Help us judge the cytoplasmic atypia, it's important.",0
+Scan the image and identify and analyze the metastasis accurately.,2
+"Find, then mark and determine the hyperplasia for classification.",2
+We need to find out the hyalinization for further analysis.,0
+Your objective is to detect the atrophy efficiently.,1
+We need to detect and classify the tissue for further analysis.,2
+Find out if there are hemorrhages or not. Locate them if there is any present.,0
+"This image contains a carcinoma in situ, is there any {obj} in the region? if yes, mark out. it.",2
+Can you recognize the apoptosis in this picture?,0
+"Observe and locate and check the fibrosis, noting key features.",2
+"Highlight and confirm and indicate the fibrinoid necrosis, making it clearer.",2
+Locate and check and determine the correct boundaries of the er negative.,2
+"Is there any mitosis in the region? If yes, mark out.",2
+Distinguish and highlight the area containing the carcinoma in situ with precision.,2
+Judge the exact location of the tissue in the given scene.,0
+"Please spot the nontumor, we need the data.",1
+"Your task is to identify the mucin, can you do it?",1
+Your objective is to determine the granulation tissue efficiently.,0
+Your objective is to mark the calcification efficiently.,1
+"Observe and categorize the hemorrhage, noting key features.",0
+"Detect and indicate the desmoplasianuclear atypia, making it clearer.",1
+"Please detect the apoptosis, we need the data.",1
+"Is there any fibrosis in the region? If yes, mark out.",1
+"Is there any {obj} in the region? If yes, mark out. the er negative and label it properly.",2
+Trace and evaluate and highlight the atrophy to improve detection.,2
+Your objective is to circle the metaplasia efficiently.,1
+Can you categorize the blood cells in this picture?,0
+"Please distinguish the tissue, we need the data.",0
+Recognize the atypia and label it properly.,0
+"Your task is to categorize the tissue, can you do it?",0
+Mark the exact location of the blood cells in the given scene.,1
+"Sketch and indicate the nontumor, making it clearer.",1
+Separate and determine the correct boundaries of the inflammation.,1
+Analyze the image and encircle and categorize where the neutrophilic infiltrate is.,2
+"Observe and locate the hemorrhage, noting key features.",1
+Distinguish where the atrophy is located in this image.,0
+"Observe and confirm the hyperplasia, noting key features.",0
+Identify and determine the correct boundaries of the pleomorphism.,1
+"Is there any mitotic figures in the region? If yes, mark out.",2
+"Observe and distinguish the hyperplasia, noting key features.",0
+Your objective is to recognize the atrophy efficiently.,0
+Analyze the image and draw boundary where the invasive carcinoma is.,1
+"This image contains a sheets, find out if there are {obj}s or not. locate them if there is any present. it.",2
+"Please categorize the hyalinization, we need the data.",0
+Trace and evaluate and highlight the lymphocytic infiltrate to improve detection.,2
+"Your task is to is there any {obj} in the region? if yes, mark out. the hemorrhage, can you do it?",2
+"Please separate the sheets, we need the data.",1
+"Please categorize the metaplasia, we need the data.",0
+Scan the image and outline the hyalinization accurately.,1
+"Help us mark and determine the invasive carcinoma, it's important.",2
+"This image contains a mucin, detect it.",1
+"Observe and highlight and confirm the hypertrophy, noting key features.",2
+Can you recognize the calcification in this picture?,0
+Your objective is to separate the hemorrhage efficiently.,1
+Your objective is to separate the neutrophilic infiltrate efficiently.,1
+Check the fibrinoid necrosis and label it properly.,0
+"Observe and analyze the cell detection, noting key features.",0
+Your objective is to spot the hypertrophy efficiently.,1
+"Diagnose and indicate the pleomorphism, making it clearer.",0
+Can you sketch the calcification in this picture?,1
+Assess the exact location of the hemorrhage in the given scene.,0
+Judge the exact location of the tumor necrosis in the given scene.,0
+Circle the hypertrophy and label it properly.,1
+Detect and determine the correct boundaries of the sheets.,1
+"Help us spot the hypertrophy, it's important.",1
+"This image contains a gangrenous necrosis, spot it.",1
+Your objective is to diagnose the apoptosis efficiently.,0
+"Highlight and confirm and indicate the dysplasia, making it clearer.",2
+Locate and check the ulcer.,2
+"Observe and categorize the atrophy, noting key features.",0
+Locate the exact location of the desmoplasianuclear atypia in the given scene.,1
+Outline where the calcification is located in this image.,1
+Scan the image and inspect the er negative accurately.,0
+Trace and evaluate the exact location of the ulcer in the given scene.,2
+Observe and highlight the er negative to improve detection.,0
+"This image contains a edema, analyze it.",0
+"Separate and indicate the sheets, making it clearer.",1
+Trace where the nontumor is located in this image.,1
+Can you distinguish and highlight the necrosis in this picture?,2
+Identify the neutrophilic infiltrate and label it properly.,1
+Your objective is to sketch the metastasis efficiently.,1
+We need to mark and determine the pleomorphism for further analysis.,2
+Your objective is to locate the fibrosis efficiently.,1
+"Observe and mark the metastasis, noting key features.",1
+Can you highlight and confirm the clear cells in this picture?,2
+Your objective is to evaluate the calcification efficiently.,0
+"Please detect and classify the hypertrophy, we need the data.",2
+"Please detect and classify the desmoplasianuclear atypia, we need the data.",2
+Observe the sheets.,0
+Distinguish and highlight and highlight the tumor to improve detection.,2
+"Please detect and classify the er positive, we need the data.",2
+Distinguish and highlight the exact location of the gangrenous necrosis in the given scene.,2
+Assess the area containing the granulation tissue with precision.,0
+Your objective is to encircle the granulation tissue efficiently.,1
+Assess and highlight the mucin to improve detection.,0
+"Observe and map the atrophy, noting key features.",1
+Your objective is to separate the fibrosis efficiently.,1
+Your objective is to map the hypertrophy efficiently.,1
+Can you distinguish and highlight the cytoplasmic atypia in this picture?,2
+"Please draw boundary the hypertrophy, we need the data.",1
+Recognize the area containing the neutrophilic infiltrate with precision.,0
+Find out if there are {obj}s or not. Locate them if there is any present. the hypertrophy.,2
+Scan the image and find out if there are {obj}s or not. locate them if there is any present. the edema accurately.,2
+Determine the sheets.,0
+"Your task is to map the hyalinization, can you do it?",1
+Determine and highlight the desmoplasianuclear atypia to improve detection.,0
+"Find, then verify the neutrophilic infiltrate for classification.",0
+Spot the exact location of the clear cells in the given scene.,1
+Can you recognize the ulcer in this picture?,0
+"Help us distinguish and highlight the tumor budding, it's important.",2
+Check the area containing the desmoplasianuclear atypia with precision.,0
+"Please diagnose the tumor budding, we need the data.",0
+"Distinguish and highlight and indicate the tumor necrosis, making it clearer.",2
+Find out if there are {obj}s or not. Locate them if there is any present. and highlight the fibrinoid necrosis to improve detection.,2
+"Please sketch the tubules, we need the data.",1
+Scan the image and check the er positive accurately.,0
+"Find out if there are {obj}s or not. Locate them if there is any present. and indicate the tumor, making it clearer.",2
+Highlight and determine the correct boundaries of the atrophy.,1
+Find out if there are cytoplasmic atypias or not. Locate them if there is any present.,0
+"Your task is to observe the cytoplasmic atypia, can you do it?",0
+We need to mark and determine the apoptosis for further analysis.,2
+"Is there any clear cells in the region? If yes, mark out.",2
+"Spot and indicate the tumor budding, making it clearer.",1
+"Your task is to separate the sheets, can you do it?",1
+Find out if there are ulcers or not. Locate them if there is any present.,1
+We need to outline the metastasis for further analysis.,1
+"Please judge the tubules, we need the data.",0
+"Please categorize the er positive, we need the data.",0
+Can you identify and analyze the clear cells in this picture?,2
+Evaluate the tissue.,0
+Locate and check the exact location of the dysplasia in the given scene.,2
+"This image contains a metastasis, evaluate it.",0
+"Evaluate and indicate the er negative, making it clearer.",0
+"Your task is to detect and classify the signet ring cells, can you do it?",2
+Can you encircle the nontumor in this picture?,1
+Delimit the blood cells and label it properly.,1
+Can you identify and analyze the hyperplasia in this picture?,2
+"Help us diagnose the mitosis, it's important.",0
+Assess the exact location of the er negative in the given scene.,0
+We need to outline the mitotic figures for further analysis.,1
+Distinguish the hyperplasia.,0
+Your objective is to detect and classify the tumor efficiently.,2
+"Help us outline the lymphocytic infiltrate, it's important.",1
+"Observe and trace the clear cells, noting key features.",1
+"Find, then identify the mucin for classification.",1
+Find out if there are gangrenous necrosiss or not. Locate them if there is any present.,1
+Your objective is to outline the tumor necrosis efficiently.,1
+Distinguish and highlight and highlight the pleomorphism to improve detection.,2
+Map the area containing the cytoplasmic atypia with precision.,1
+"Categorize and indicate the gangrenous necrosis, making it clearer.",0
+Scan the image and detect and classify the apoptosis accurately.,2
+"Please check the hypertrophy, we need the data.",0
+"Please identify and analyze the tumor necrosis, we need the data.",2
+Analyze the image and locate where the metastasis is.,1
+"Trace and indicate the nontumor, making it clearer.",1
+"Help us distinguish the sheets, it's important.",0
+"Please observe the apoptosis, we need the data.",0
+Analyze the image and distinguish where the hyalinization is.,0
+Your objective is to highlight the tumor necrosis efficiently.,1
+Trace the neutrophilic infiltrate.,1
+Detect where the carcinoma in situ is located in this image.,1
+Analyze the image and encircle and categorize where the tumor necrosis is.,2
+"Please confirm the clear cells, we need the data.",0
+"Observe and is there any {obj} in the region? if yes, mark out. the mitosis, noting key features.",2
+Delimit where the neutrophilic infiltrate is located in this image.,1
+"Your task is to categorize the fibrosis, can you do it?",0
+Delimit the lymphocytic infiltrate.,1
+Draw boundary and highlight the ulcer to improve detection.,1
+Analyze the image and outline where the tumor is.,1
+"Observe and diagnose the hyperplasia, noting key features.",0
+Inspect and determine the correct boundaries of the pleomorphism.,0
+Encircle and categorize and highlight the atypia to improve detection.,2
+"Is there any {obj} in the region? If yes, mark out. the area containing the atypia with precision.",2
+Spot and recognize the edema and label it properly.,2
+"Map and indicate the fibrinoid necrosis, making it clearer.",1
+Find out if there are signet ring cellss or not. Locate them if there is any present.,2
+Separate the exact location of the tissue in the given scene.,1
+"Please identify and analyze the lymphocytic infiltrate, we need the data.",2
+Spot and recognize the apoptosis and label it properly.,2
+Your objective is to locate and check the er positive efficiently.,2
+Your objective is to outline and verify the tumor efficiently.,2
+"Verify and indicate the hypertrophy, making it clearer.",0
+Can you mark and determine the carcinoma in situ in this picture?,2
+Locate the edema.,1
+Verify the ulcer.,0
+Can you highlight and confirm the edema in this picture?,2
+Encircle and categorize and highlight the tumor budding to improve detection.,2
+"Find, then highlight and confirm the edema for classification.",2
+"Help us find out the signet ring cells, it's important.",0
+Your objective is to delimit the carcinoma in situ efficiently.,1
+Scan the image and assess the fibrosis accurately.,0
+Recognize the ulcer and label it properly.,0
+"Locate and indicate the fibrinoid necrosis, making it clearer.",1
+"Your task is to delimit the mitotic figures, can you do it?",1
+Map the area containing the tissue with precision.,1
+Encircle and categorize where the calcification is located in this image.,2
+"Please encircle the cytoplasmic atypia, we need the data.",1
+Trace and determine the correct boundaries of the fibrinoid necrosis.,1
+"Is there any inflammation in the region? If yes, mark out.",2
+"This image contains a lymphocytic infiltrate, judge it.",0
+Separate the sheets.,1
+Highlight and confirm where the tissue is located in this image.,2
+Mark and determine the gangrenous necrosis.,2
+"Your objective is to is there any {obj} in the region? if yes, mark out. the dysplasia efficiently.",2
+Observe the fibrinoid necrosis and label it properly.,0
+"Please identify and analyze the dysplasia, we need the data.",2
+Evaluate the area containing the atrophy with precision.,0
+Highlight and confirm the area containing the nontumor with precision.,2
+"Find, then identify the blood cells for classification.",1
+Separate where the tumor is located in this image.,1
+Your objective is to identify the fibrinoid necrosis efficiently.,1
+"Observe and identify the inflammation, noting key features.",1
+Mark and highlight the pleomorphism to improve detection.,1
+We need to highlight and confirm the ulcer for further analysis.,2
+"Your task is to recognize the hemorrhage, can you do it?",0
+Find out and determine the correct boundaries of the invasive carcinoma.,0
+"Your task is to highlight and confirm the ulcer, can you do it?",2
+"Please verify the tumor budding, we need the data.",0
+Highlight the hyalinization and label it properly.,1
+Detect where the mitosis is located in this image.,1
+Verify where the mitosis is located in this image.,0
+Your objective is to determine the nontumor efficiently.,0
+Analyze the image and delimit where the signet ring cells is.,1
+Determine the area containing the lymphocytic infiltrate with precision.,0
+"Observe and evaluate the metastasis, noting key features.",0
+Outline and verify and highlight the er positive to improve detection.,2
+Spot and determine the correct boundaries of the nontumor.,1
+Confirm and determine the correct boundaries of the carcinoma in situ.,0
+"Observe and mark and determine the hyperplasia, noting key features.",2
+"This image contains a er positive, identify it.",1
+Highlight the exact location of the tissue in the given scene.,1
+"Find, then observe the fibrosis for classification.",0
+Find out if there are hyalinizations or not. Locate them if there is any present.,2
+Spot and recognize the exact location of the metaplasia in the given scene.,2
+Can you mark the clear cells in this picture?,1
+"This image contains a mucin, distinguish it.",0
+Encircle where the apoptosis is located in this image.,1
+"Distinguish and indicate the metaplasia, making it clearer.",0
+Diagnose the area containing the hyperplasia with precision.,0
+Analyze the image and diagnose where the nontumor is.,0
+"Please analyze the ulcer, we need the data.",0
+"Observe and check the lymphocytic infiltrate, noting key features.",0
+Analyze the image and encircle and categorize where the hypertrophy is.,2
+We need to encircle and categorize the metaplasia for further analysis.,2
+Verify the area containing the edema with precision.,0
+"Help us confirm the nontumor, it's important.",0
+"Observe and judge the nontumor, noting key features.",0
+"Find, then verify the fibrinoid necrosis for classification.",0
+Analyze the image and highlight and confirm where the gangrenous necrosis is.,2
+Determine and highlight the mitotic figures to improve detection.,0
+Judge the exact location of the er positive in the given scene.,0
+"Please mark and determine the cytoplasmic atypia, we need the data.",2
+Determine and determine the correct boundaries of the ulcer.,0
+"This image contains a carcinoma in situ, verify it.",0
+Analyze the image and outline and verify where the clear cells is.,2
+"Please highlight the pleomorphism, we need the data.",1
+"Find, then identify and analyze the er positive for classification.",2
+"This image contains a gangrenous necrosis, detect and classify it.",2
+"Your task is to is there any {obj} in the region? if yes, mark out. the calcification, can you do it?",2
+"Observe and detect the mitosis, noting key features.",1
+"Evaluate and indicate the invasive carcinoma, making it clearer.",0
+Your objective is to diagnose the tubules efficiently.,0
+"Observe and mark and determine the edema, noting key features.",2
+"This image contains a hyalinization, find out if there are {obj}s or not. locate them if there is any present. it.",2
+"Help us trace and evaluate the cell detection, it's important.",2
+Observe and determine the correct boundaries of the pleomorphism.,0
+Analyze the image and identify and analyze where the nontumor is.,2
+Can you highlight and confirm the sheets in this picture?,2
+"Help us detect and classify the neutrophilic infiltrate, it's important.",2
+Detect the exact location of the cell detection in the given scene.,1
+"Distinguish and highlight and indicate the apoptosis, making it clearer.",2
+Find out if there are atypias or not. Locate them if there is any present.,1
+"Help us judge the tubules, it's important.",0
+We need to highlight the invasive carcinoma for further analysis.,1
+"Please find out if there are {obj}s or not. locate them if there is any present. the mitosis, we need the data.",2
+Evaluate the exact location of the er positive in the given scene.,0
+Diagnose the tumor budding and label it properly.,0
+Distinguish and highlight where the apoptosis is located in this image.,2
+Analyze the image and judge where the mitosis is.,0
+"Find, then trace the desmoplasianuclear atypia for classification.",1
+Can you encircle and categorize the hypertrophy in this picture?,2
+"Observe and spot and recognize the calcification, noting key features.",2
+"Find, then draw boundary the edema for classification.",1
+Inspect where the er positive is located in this image.,0
+"Help us locate and check the dysplasia, it's important.",2
+Detect and classify the exact location of the pleomorphism in the given scene.,2
+Can you highlight the granulation tissue in this picture?,1
+"Map and indicate the edema, making it clearer.",1
+"This image contains a neutrophilic infiltrate, analyze it.",0
+Spot and recognize the inflammation and label it properly.,2
+"Help us evaluate the metastasis, it's important.",0
+"Observe and categorize the signet ring cells, noting key features.",0
+Find out if there are {obj}s or not. Locate them if there is any present. where the ulcer is located in this image.,2
+Analyze the image and detect and classify where the invasive carcinoma is.,2
+We need to check the tissue for further analysis.,0
+"Highlight and confirm and indicate the pleomorphism, making it clearer.",2
+Mark where the tumor is located in this image.,1
+Determine the hyalinization and label it properly.,0
+Find out if there are lymphocytic infiltrates or not. Locate them if there is any present.,0
+Find out if there are hemorrhages or not. Locate them if there is any present.,2
+"Help us encircle and categorize the pleomorphism, it's important.",2
+"Observe and analyze the er positive, noting key features.",0
+Identify and analyze where the fibrosis is located in this image.,2
+Detect and classify the area containing the sheets with precision.,2
+"Help us trace and evaluate the metastasis, it's important.",2
+Analyze the image and outline and verify where the blood cells is.,2
+Identify and determine the correct boundaries of the cell detection.,1
+"Find, then detect and classify the metastasis for classification.",2
+Locate and highlight the sheets to improve detection.,1
+Can you detect and classify the fibrosis in this picture?,2
+Encircle the nontumor.,1
+Encircle and categorize and highlight the calcification to improve detection.,2
+Encircle and categorize where the hyalinization is located in this image.,2
+Identify and analyze where the carcinoma in situ is located in this image.,2
+Analyze the image and detect and classify where the inflammation is.,2
+"Observe and spot the cell detection, noting key features.",1
+"Is there any {obj} in the region? If yes, mark out. the mucin.",2
+Locate and check where the necrosis is located in this image.,2
+Locate and check and highlight the er positive to improve detection.,2
+Evaluate the exact location of the calcification in the given scene.,0
+Analyze the image and circle where the sheets is.,1
+Can you verify the er negative in this picture?,0
+"Find, then highlight and confirm the sheets for classification.",2
+"Find, then draw boundary the carcinoma in situ for classification.",1
+"Map and indicate the hypertrophy, making it clearer.",1
+Determine the metaplasia.,0
+"Observe and detect and classify the er positive, noting key features.",2
+"Your task is to categorize the tubules, can you do it?",0
+"Find, then encircle and categorize the inflammation for classification.",2
+"Please detect the granulation tissue, we need the data.",1
+Circle and determine the correct boundaries of the cell detection.,1
+Spot the nontumor.,1
+Identify where the apoptosis is located in this image.,1
+Outline and verify the metastasis.,2
+"Sketch and indicate the tumor necrosis, making it clearer.",1
+Mark and determine the desmoplasianuclear atypia and label it properly.,2
+"Help us determine the apoptosis, it's important.",0
+"Is there any tubules in the region? If yes, mark out.",2
+"Your task is to outline and verify the necrosis, can you do it?",2
+Find out the area containing the mitosis with precision.,0
+Judge and determine the correct boundaries of the cytoplasmic atypia.,0
+Assess the hypertrophy and label it properly.,0
+Scan the image and recognize the atypia accurately.,0
+"Help us separate the fibrosis, it's important.",1
+Analyze the image and distinguish where the atypia is.,0
+"Encircle and indicate the hypertrophy, making it clearer.",1
+Scan the image and mark the neutrophilic infiltrate accurately.,1
+Assess the exact location of the nontumor in the given scene.,0
+"This image contains a tumor necrosis, is there any {obj} in the region? if yes, mark out. it.",2
+Verify the necrosis.,0
+Delimit where the calcification is located in this image.,1
+"This image contains a cytoplasmic atypia, identify and analyze it.",2
+"Find, then spot the ulcer for classification.",1
+"Find, then assess the tumor for classification.",0
+"This image contains a tubules, verify it.",0
+Detect and classify the exact location of the fibrosis in the given scene.,2
+Mark the gangrenous necrosis.,1
+Your objective is to outline the nontumor efficiently.,1
+Circle where the apoptosis is located in this image.,1
+Confirm the area containing the hemorrhage with precision.,0
+Analyze the image and detect and classify where the mitotic figures is.,2
+Your objective is to distinguish and highlight the er negative efficiently.,2
+Distinguish and highlight and determine the correct boundaries of the fibrinoid necrosis.,2
+"This image contains a fibrinoid necrosis, categorize it.",0
+Identify and analyze the metastasis.,2
+"Your task is to highlight the tumor budding, can you do it?",1
+Outline and verify where the atrophy is located in this image.,2
+"Is there any tubules in the region? If yes, mark out.",0
+"Delimit and indicate the sheets, making it clearer.",1
+Map and highlight the pleomorphism to improve detection.,1
+"This image contains a neutrophilic infiltrate, mark and determine it.",2
+"Distinguish and highlight and indicate the hyperplasia, making it clearer.",2
+"Observe and detect and classify the mitosis, noting key features.",2
+Trace the tumor necrosis and label it properly.,1
+Assess and determine the correct boundaries of the hyalinization.,0
+Observe the cell detection.,0
+Your objective is to distinguish and highlight the mitosis efficiently.,2
+Mark and determine the area containing the hyperplasia with precision.,2
+Find out if there are metastasiss or not. Locate them if there is any present.,0
+Detect the area containing the cytoplasmic atypia with precision.,1
+Analyze the image and delimit where the atrophy is.,1
+Encircle and categorize the dysplasia.,2
+Can you spot the metaplasia in this picture?,1
+"Diagnose and indicate the neutrophilic infiltrate, making it clearer.",0
+"Please identify and analyze the mucin, we need the data.",2
+Spot and highlight the fibrinoid necrosis to improve detection.,1
+"Detect and indicate the gangrenous necrosis, making it clearer.",1
+Confirm where the inflammation is located in this image.,0
+"Your task is to locate the necrosis, can you do it?",1
+"Help us spot the carcinoma in situ, it's important.",1
+"This image contains a cell detection, trace and evaluate it.",2
+"This image contains a mitotic figures, outline it.",1
+"Draw boundary and indicate the calcification, making it clearer.",1
+"Please locate the mucin, we need the data.",1
+"Help us highlight the pleomorphism, it's important.",1
+"Help us encircle and categorize the mucin, it's important.",2
+Draw boundary where the invasive carcinoma is located in this image.,1
+"Observe and find out the dysplasia, noting key features.",0
+Map the exact location of the cytoplasmic atypia in the given scene.,1
+Mark and determine and highlight the mucin to improve detection.,2
+We need to judge the fibrinoid necrosis for further analysis.,0
+Analyze the image and identify and analyze where the calcification is.,2
+"Please evaluate the tissue, we need the data.",0
+"Help us inspect the granulation tissue, it's important.",0
+"Please categorize the granulation tissue, we need the data.",0
+Scan the image and outline and verify the hemorrhage accurately.,2
+Circle the fibrosis and label it properly.,1
+"This image contains a atypia, find out it.",0
+Scan the image and sketch the mitotic figures accurately.,1
+"Observe and distinguish the necrosis, noting key features.",0
+Recognize and highlight the clear cells to improve detection.,0
+"Please sketch the hemorrhage, we need the data.",1
+We need to circle the tissue for further analysis.,1
+Determine and determine the correct boundaries of the calcification.,0
+"Is there any {obj} in the region? If yes, mark out. and highlight the er negative to improve detection.",2
+"Your task is to outline the gangrenous necrosis, can you do it?",1
+Confirm the er positive and label it properly.,0
+Trace where the inflammation is located in this image.,1
+"Please identify and analyze the invasive carcinoma, we need the data.",2
+"Observe and identify the granulation tissue, noting key features.",1
+"Your task is to locate and check the neutrophilic infiltrate, can you do it?",2
+"Please mark and determine the signet ring cells, we need the data.",2
+Judge and determine the correct boundaries of the desmoplasianuclear atypia.,0
+"Find, then locate the hyperplasia for classification.",1
+Confirm the granulation tissue.,0
+We need to judge the tumor for further analysis.,0
+"Observe and distinguish the ulcer, noting key features.",0
+"Observe and recognize the tissue, noting key features.",0
+Spot and recognize the atypia and label it properly.,2
+"Observe and indicate the mucin, making it clearer.",0
+"Is there any {obj} in the region? If yes, mark out. where the clear cells is located in this image.",2
+Separate and highlight the inflammation to improve detection.,1
+Find out if there are er negatives or not. Locate them if there is any present.,2
+"Is there any {obj} in the region? If yes, mark out. the exact location of the cytoplasmic atypia in the given scene.",2
+"Help us observe the carcinoma in situ, it's important.",0
+"Is there any {obj} in the region? If yes, mark out. the exact location of the mitosis in the given scene.",2
+Scan the image and detect the mucin accurately.,1
+Identify the exact location of the blood cells in the given scene.,1
+Your objective is to locate and check the tumor efficiently.,2
+"Distinguish and highlight and indicate the er negative, making it clearer.",2
+"Please inspect the hemorrhage, we need the data.",0
+Analyze the image and highlight where the tumor budding is.,1
+"Your task is to map the carcinoma in situ, can you do it?",1
+"This image contains a pleomorphism, outline it.",1
+"Your task is to identify the calcification, can you do it?",1
+Separate the area containing the carcinoma in situ with precision.,1
+"Please verify the fibrinoid necrosis, we need the data.",0
+"This image contains a neutrophilic infiltrate, evaluate it.",0
+Detect the area containing the fibrinoid necrosis with precision.,1
+"Find, then analyze the edema for classification.",0
+Analyze the image and delimit where the hemorrhage is.,1
+"Is there any hypertrophy in the region? If yes, mark out.",0
+Scan the image and determine the atrophy accurately.,0
+"Your task is to determine the ulcer, can you do it?",0
+Scan the image and identify the desmoplasianuclear atypia accurately.,1
+Can you spot and recognize the tumor necrosis in this picture?,2
+Find out if there are {obj}s or not. Locate them if there is any present. the er negative and label it properly.,2
+"Observe and outline the atrophy, noting key features.",1
+Spot and recognize the exact location of the sheets in the given scene.,2
+Your objective is to highlight and confirm the hyalinization efficiently.,2
+"Observe and judge the apoptosis, noting key features.",0
+"Detect and classify and indicate the granulation tissue, making it clearer.",2
+"Trace and indicate the signet ring cells, making it clearer.",1
+Identify and analyze and highlight the gangrenous necrosis to improve detection.,2
+Your objective is to distinguish and highlight the invasive carcinoma efficiently.,2
+"Please judge the sheets, we need the data.",0
+Check the exact location of the dysplasia in the given scene.,0
+"Observe and analyze the cytoplasmic atypia, noting key features.",0
+Can you trace and evaluate the metastasis in this picture?,2
+"This image contains a granulation tissue, find out it.",0
+"Observe and trace the hyperplasia, noting key features.",1
+We need to trace the tumor budding for further analysis.,1
+Judge the atrophy and label it properly.,0
+Scan the image and spot and recognize the carcinoma in situ accurately.,2
+"Please highlight and confirm the blood cells, we need the data.",2
+"Your task is to evaluate the mucin, can you do it?",0
+Analyze the image and identify and analyze where the invasive carcinoma is.,2
+"Help us spot and recognize the neutrophilic infiltrate, it's important.",2
+Can you diagnose the edema in this picture?,0
+"Find, then identify and analyze the hemorrhage for classification.",2
+Your objective is to verify the fibrinoid necrosis efficiently.,0
+Your objective is to recognize the hyperplasia efficiently.,0
+"Observe and verify the metaplasia, noting key features.",0
+"Help us highlight and confirm the tumor, it's important.",2
+Can you detect and classify the pleomorphism in this picture?,2
+"Observe and assess the gangrenous necrosis, noting key features.",0
+Can you locate the nontumor in this picture?,1
+"Find, then separate the hyperplasia for classification.",1
+"Please analyze the granulation tissue, we need the data.",0
+Confirm and determine the correct boundaries of the desmoplasianuclear atypia.,0
+Encircle where the mucin is located in this image.,1
+Sketch the cell detection.,1
+Can you separate the clear cells in this picture?,1
+Can you recognize the tissue in this picture?,0
+Your objective is to diagnose the edema efficiently.,0
+Determine the mucin.,0
+Assess the exact location of the calcification in the given scene.,0
+Locate and check and determine the correct boundaries of the carcinoma in situ.,2
+Verify and highlight the inflammation to improve detection.,0
+"Please mark the metastasis, we need the data.",1
+Find out if there are calcifications or not. Locate them if there is any present.,1
+"Is there any lymphocytic infiltrate in the region? If yes, mark out.",2
+Encircle where the desmoplasianuclear atypia is located in this image.,1
+Locate and check the desmoplasianuclear atypia and label it properly.,2
+Encircle and categorize and highlight the desmoplasianuclear atypia to improve detection.,2
+"Observe and separate the cell detection, noting key features.",1
+Categorize the area containing the mitosis with precision.,0
+"Observe and is there any {obj} in the region? if yes, mark out. the inflammation, noting key features.",2
+Can you distinguish and highlight the tubules in this picture?,2
+We need to trace and evaluate the signet ring cells for further analysis.,2
+"This image contains a calcification, determine it.",0
+"Your task is to verify the hyperplasia, can you do it?",0
+Can you detect and classify the granulation tissue in this picture?,2
+"Observe and encircle and categorize the hemorrhage, noting key features.",2
+Outline and verify and determine the correct boundaries of the edema.,2
+"This image contains a desmoplasianuclear atypia, delimit it.",1
+Analyze the image and inspect where the atypia is.,0
+Can you check the metaplasia in this picture?,0
+"Sketch and indicate the gangrenous necrosis, making it clearer.",1
+"Analyze and indicate the clear cells, making it clearer.",0
+Trace and evaluate the calcification and label it properly.,2
+"Help us sketch the calcification, it's important.",1
+"Please spot and recognize the hyalinization, we need the data.",2
+Your objective is to distinguish and highlight the fibrinoid necrosis efficiently.,2
+Find out and highlight the sheets to improve detection.,0
+We need to draw boundary the fibrinoid necrosis for further analysis.,1
+"This image contains a cell detection, categorize it.",0
+"Is there any mucin in the region? If yes, mark out.",2
+Find out if there are atypias or not. Locate them if there is any present.,2
+We need to observe the dysplasia for further analysis.,0
+"Analyze and indicate the atypia, making it clearer.",0
+"Your task is to check the gangrenous necrosis, can you do it?",0
+"Observe and sketch the metastasis, noting key features.",1
+"Is there any {obj} in the region? If yes, mark out. and determine the correct boundaries of the fibrinoid necrosis.",2
+"Categorize and indicate the er positive, making it clearer.",0
+"Draw boundary and indicate the mucin, making it clearer.",1
+Sketch the desmoplasianuclear atypia.,1
+"Your task is to spot the clear cells, can you do it?",1
+Your objective is to mark and determine the mitotic figures efficiently.,2
+"Observe and find out if there are {obj}s or not. locate them if there is any present. the hemorrhage, noting key features.",2
+Sketch and determine the correct boundaries of the tumor.,1
+We need to observe the signet ring cells for further analysis.,0
+"Observe and map the tubules, noting key features.",1
+Analyze the image and locate and check where the metastasis is.,2
+We need to verify the er negative for further analysis.,0
+Scan the image and assess the hypertrophy accurately.,0
+We need to mark and determine the mitotic figures for further analysis.,2
+Can you highlight and confirm the metaplasia in this picture?,2
+"Please observe the metastasis, we need the data.",0
+Categorize the mitosis.,0
+"This image contains a lymphocytic infiltrate, trace it.",1
+"This image contains a metaplasia, check it.",0
+"Your task is to is there any {obj} in the region? if yes, mark out. the tubules, can you do it?",2
+"Please check the calcification, we need the data.",0
+Scan the image and map the pleomorphism accurately.,1
+Mark the area containing the inflammation with precision.,1
+"This image contains a calcification, highlight it.",1
+Your objective is to encircle and categorize the cell detection efficiently.,2
+"Is there any hemorrhage in the region? If yes, mark out.",1
+Mark and highlight the necrosis to improve detection.,1
+"Sketch and indicate the sheets, making it clearer.",1
+Your objective is to mark the desmoplasianuclear atypia efficiently.,1
+"Please determine the granulation tissue, we need the data.",0
+"Highlight and confirm and indicate the calcification, making it clearer.",2
+Highlight and highlight the mitosis to improve detection.,1
+Can you observe the inflammation in this picture?,0
+Delimit the tumor budding.,1
+We need to locate and check the fibrosis for further analysis.,2
+"This image contains a tumor necrosis, observe it.",0
+Mark and determine the correct boundaries of the desmoplasianuclear atypia.,1
+Identify where the mitotic figures is located in this image.,1
+Highlight and highlight the mucin to improve detection.,1
+Find out if there are {obj}s or not. Locate them if there is any present. the mitotic figures.,2
+Can you find out the mucin in this picture?,0
+Trace and evaluate and determine the correct boundaries of the cell detection.,2
+Check and determine the correct boundaries of the hyperplasia.,0
+Your objective is to map the er positive efficiently.,1
+Find out and highlight the atrophy to improve detection.,0
+Spot where the lymphocytic infiltrate is located in this image.,1
+Identify and analyze the exact location of the inflammation in the given scene.,2
+Can you distinguish and highlight the granulation tissue in this picture?,2
+"Find, then map the cell detection for classification.",1
+Encircle and highlight the desmoplasianuclear atypia to improve detection.,1
+"Help us highlight and confirm the tumor necrosis, it's important.",2
+Your objective is to recognize the calcification efficiently.,0
+Draw boundary the hyalinization and label it properly.,1
+"Find, then spot the edema for classification.",1
+Identify where the tissue is located in this image.,1
+"Help us outline the invasive carcinoma, it's important.",1
+"This image contains a blood cells, encircle and categorize it.",2
+"Observe and determine the signet ring cells, noting key features.",0
+"Help us analyze the mitotic figures, it's important.",0
+"This image contains a hemorrhage, map it.",1
+"Please locate the mitotic figures, we need the data.",1
+"Your task is to trace and evaluate the apoptosis, can you do it?",2
+"Observe and find out the clear cells, noting key features.",0
+Your objective is to distinguish the invasive carcinoma efficiently.,0
+Scan the image and check the carcinoma in situ accurately.,0
+Find out if there are sheetss or not. Locate them if there is any present.,2
+Encircle the exact location of the hyalinization in the given scene.,1
+Scan the image and highlight the inflammation accurately.,1
+Outline where the blood cells is located in this image.,1
+"Find, then distinguish the er positive for classification.",0
+"Your task is to map the hyperplasia, can you do it?",1
+"This image contains a metastasis, mark and determine it.",2
+"Your task is to identify the er negative, can you do it?",1
+"Observe and sketch the gangrenous necrosis, noting key features.",1
+Analyze the image and mark where the clear cells is.,1
+Confirm the mucin and label it properly.,0
+Can you spot and recognize the gangrenous necrosis in this picture?,2
+"Is there any tubules in the region? If yes, mark out.",1
+"Find out if there are {obj}s or not. Locate them if there is any present. and indicate the hyperplasia, making it clearer.",2
+Analyze the image and encircle and categorize where the hyperplasia is.,2
+Determine the area containing the desmoplasianuclear atypia with precision.,0
+"Help us trace the apoptosis, it's important.",1
+"Is there any {obj} in the region? If yes, mark out. the metaplasia and label it properly.",2
+Identify the calcification and label it properly.,1
+Analyze the image and recognize where the er negative is.,0
+Identify where the invasive carcinoma is located in this image.,1
+Recognize the exact location of the cytoplasmic atypia in the given scene.,0
+"Inspect and indicate the hemorrhage, making it clearer.",0
+Your objective is to determine the cell detection efficiently.,0
+Your objective is to trace the hemorrhage efficiently.,1
+Observe the necrosis and label it properly.,0
+Detect and classify the hyalinization and label it properly.,2
+Analyze the area containing the atypia with precision.,0
+Encircle and categorize the fibrosis and label it properly.,2
+"Identify and indicate the granulation tissue, making it clearer.",1
+"Locate and check and indicate the hyalinization, making it clearer.",2
+Can you draw boundary the cytoplasmic atypia in this picture?,1
+Locate and check the nontumor.,2
+"Please sketch the necrosis, we need the data.",1
+Confirm the area containing the pleomorphism with precision.,0
+Scan the image and evaluate the hyalinization accurately.,0
+Mark and determine where the invasive carcinoma is located in this image.,2
+Outline and verify the inflammation.,2
+"This image contains a blood cells, analyze it.",0
+Can you spot and recognize the mitosis in this picture?,2
+Scan the image and evaluate the tumor budding accurately.,0
+We need to identify the sheets for further analysis.,1
+Outline and verify and determine the correct boundaries of the hyperplasia.,2
+"This image contains a hypertrophy, highlight and confirm it.",2
+"Find, then check the clear cells for classification.",0
+Evaluate the exact location of the atrophy in the given scene.,0
+Recognize where the lymphocytic infiltrate is located in this image.,0
+Judge the area containing the inflammation with precision.,0
+Encircle and categorize and highlight the blood cells to improve detection.,2
+Find out if there are er positives or not. Locate them if there is any present.,1
+"Find, then is there any {obj} in the region? if yes, mark out. the invasive carcinoma for classification.",2
+We need to confirm the nontumor for further analysis.,0
+Observe the calcification and label it properly.,0
+Map and determine the correct boundaries of the tumor.,1
+"Is there any necrosis in the region? If yes, mark out.",2
+We need to distinguish and highlight the clear cells for further analysis.,2
+Outline and verify the exact location of the tumor budding in the given scene.,2
+"This image contains a fibrinoid necrosis, identify it.",1
+Scan the image and delimit the pleomorphism accurately.,1
+We need to distinguish the tumor necrosis for further analysis.,0
+"Is there any lymphocytic infiltrate in the region? If yes, mark out.",0
+"Locate and indicate the atypia, making it clearer.",1
+Distinguish and highlight the area containing the desmoplasianuclear atypia with precision.,2
+Detect the area containing the tubules with precision.,1
