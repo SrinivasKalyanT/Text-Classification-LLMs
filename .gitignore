@@ -1,1 +1,3 @@
 checkpoint-1400/
+checkpoint-1400/*.pt
+checkpoint-1400/*.safetensors
