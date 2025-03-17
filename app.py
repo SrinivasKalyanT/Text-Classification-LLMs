@@ -14,7 +14,7 @@ label_mapping = {0: "Classification", 1: "Segmentation", 2: "Both"}
 app.mount("/static", StaticFiles(directory="static"), name="static")
 
 # Load model and tokenizer
-model_path = "/Users/srinivaskalyan/Documents/deployment/checkpoint-1400"
+model_path = "/app/checkpoint-1400"
 tokenizer = BertTokenizer.from_pretrained(model_path)
 model = BertForSequenceClassification.from_pretrained(model_path)
 
